@@ -1,0 +1,9 @@
+INFO:root:filename pulseissue
+INFO:root:columnName  pulseissue.include
+INFO:root:collection name pulseissue
+INFO:root:rename fields
+INFO:root:['Type', 'ID', 'Description', 'IssueKey', 'Key']
+INFO:root:current fields
+INFO:root:['Issuetype', 'Issueid', 'Summary', 'Issuekey', 'Projectkey']
+INFO:root:[Assignee,Status,Resolution,Created,Updated,Projectname,Projectdescription,Parentid,Reporter,Priority,DueDate,FixVersions,Sprint,CustomfieldVerifier,Projecttype,Projectlead,Projecturl,]
+INFO:root:Issuetype:Type,Issueid:ID,Summary:Description,Issuekey:IssueKey,Projectkey:Key
